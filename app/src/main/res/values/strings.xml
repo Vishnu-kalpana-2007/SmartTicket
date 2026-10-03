@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SmartTicket</string>
+    <string name="tagline">Book your experience with ease</string>
+    <string name="explore_museums">Explore Museums</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="book_now">Book Now</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="view_my_bookings">View My Bookings</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="no_bookings_yet">No bookings yet.</string>
+    <string name="no_bookings_desc">Explore museums and book your first experience!</string>
+    <string name="apply_coupon">Apply</string>
+    <string name="coupon_hint">Enter coupon code (e.g. SMART10)</string>
+    <string name="booking_confirmed">Booking Confirmed!</string>
+    <string name="status_confirmed">Confirmed</string>
+    <string name="adult_ticket">Adult Ticket</string>
+    <string name="student_ticket">Student Ticket</string>
+    <string name="child_ticket">Child Ticket</string>
+</resources>
